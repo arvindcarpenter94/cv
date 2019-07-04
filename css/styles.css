@@ -1,0 +1,67 @@
+body {
+  background-color: #E4F9F5;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+hr {
+  border-style: dotted none none none;
+  height: 0px;
+  width: 10%;
+  border-width: 8px;
+  border-color: grey;
+}
+
+h1 {
+  color: #66BFBF;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.profilePicture{
+  height: 15%;
+  width: 15%;
+}
+.middle-container {}
+
+.bottom-container {}
+
+.titleImage {
+  height: 80px;
+  display: block;
+  margin: 0 auto 0 auto;
+}
+
+.topCloud {
+  position: absolute;
+  right: 20%;
+  top: 5%;
+}
+
+.bottomCloud {
+  position: absolute;
+  left: 20%;
+}
+
+.mountain {}
+
+.subTitle {
+  color: #66BFBF;
+  font-size: 180%;
+  font-family: brandon-grotesque, HelveticaNeue-Light, "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
